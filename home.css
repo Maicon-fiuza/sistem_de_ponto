@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./rota66.jpng.jpg);
+    text-align: center;
+    color: black;
+}
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    border-radius: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    border:3px solid moccasin;
+    border-radius: 10px;
+    padding: 10px;
+
+} 
+a:hover{
+    background-color: black;
+}
